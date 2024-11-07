@@ -16,7 +16,6 @@
 #include "esp_bt_defs.h"
 #include "esp_bt_main.h"
 #include "esp_gatt_common_api.h"
-#include "cJSON.h"
 
 #define GATTS_TAG "GATTS_INIT"
 #define PROFILE_A_APP_ID 0
